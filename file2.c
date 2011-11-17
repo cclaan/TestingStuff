@@ -11,3 +11,18 @@ void super_feature2() {
     
     
 }
+
+
+
+void guy_one_function(int s)
+{
+    // what might happen here!
+    
+    
+    while (s >= 0)
+    {
+        printf("%i left", s);
+        
+    }
+}
+
